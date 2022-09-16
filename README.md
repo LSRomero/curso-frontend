@@ -1,6 +1,6 @@
 # Curso Front-end
 #### EBAC
-
+Conteúdo de construção de um post de blog com formulário e um -email marketing. Tomei a liberdade de fazer algumas mudanças no estilo do blog, com nova imagem de marca.
 # GIT
 ## Conceitos de versionamento
  - Histórico
