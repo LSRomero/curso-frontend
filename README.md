@@ -1,5 +1,6 @@
 # Curso Front-end
 #### EBAC
+Aprendizado de uso do Git sincronizando o repositório com o Github. Controle de versionamento do projeto e uso do fork para mudanças substanciais efetuadas por mim.
 Conteúdo de construção de um post de blog com formulário e um -email marketing. Tomei a liberdade de fazer algumas mudanças no estilo do blog, com nova imagem de marca.
 # GIT
 ## Conceitos de versionamento
